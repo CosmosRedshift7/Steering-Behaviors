@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "p5": "*",
+    "http-server": "*"
+  }
+}
